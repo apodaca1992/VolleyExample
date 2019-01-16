@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">VolleyExample</string>
+
+    <string name="strUrlRegistrarDispositivo">http://desarrolloapodaca.000webhostapp.com/fcmAsesorCCU/api/registerDevice.php</string>
+
+    <string name="strNoCuentaConInternet">NO CUENTA CON UNA CONEXION A INTERNET. VERIFIQUE SU CONEXION.</string>
+
+    <string name="strSeparadorIdentificadorCompuesto">$</string>
+
+    <!-- Alta Dispositivo splash_screen-->
+    <string name="strIdentificador">identificador</string>
+    <string name="strImei">imei</string>
+    <string name="strNumeroCelular">numero_celular</string>
+    <string name="strToken">token</string>
+    <string name="strNumeroSerie">numero_serie</string>
+    <string name="strMarca">marca</string>
+    <string name="strModelo">modelo</string>
+    <string name="strMacWlan">mac_wlan</string>
+    <string name="strAutorizado">autorizado</string>
+    <string name="strOperador">operador</string>
+    <string name="strOperadorCountry">operadorCountry</string>
+    <string name="strTipoRed">tipo_red</string>
+    <string name="strWifiConected">wifiConnected</string>
+    <string name="strBatteryPercentage">batteryPercentage</string>
+    <string name="strCuentasDispositivo">cuentasDispositivo</string>
+    <string name="strSistemaOperativo">sistema_operativo</string>
+    <string name="strVersionSistemaOperativo">version_sistema_operativo</string>
+    <string name="strCodigoActivacion">codigo_activacion</string>
+
+
+</resources>
